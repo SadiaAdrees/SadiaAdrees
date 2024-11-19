@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadia Adrees</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
-<img align= "right" alt="coding" width = 400 src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+<img align= "right" alt="coding" width = 300 src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiaadrees&label=Profile%20views&color=0e75b6&style=flat" alt="sadiaadrees" /> </p>
 
