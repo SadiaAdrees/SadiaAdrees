@@ -1,4 +1,4 @@
-![logo](https://github.com/SadiaAdrees/SadiaAdrees/blob/main/github%20banner.png)
+![logo](https://github.com/SadiaAdrees/SadiaAdrees/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Sadia Adrees</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 <img align= "right" alt="coding" width = 300 src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
