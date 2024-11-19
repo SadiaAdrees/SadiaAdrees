@@ -1,8 +1,10 @@
+![logo](https://github.com/SadiaAdrees/SadiaAdrees/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Sadia Adrees</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 <img align= "right" alt="coding" width = 300 src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiaadrees&label=Profile%20views&color=0e75b6&style=flat" alt="sadiaadrees" /> </p>
+
 
 - 🔭 I’m currently diving into **data science, learning Python, pandas, NumPy, machine learning, and statistics while applying these skills to projects.**
 
@@ -47,7 +49,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadiaadrees" alt="sadiaadrees" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiaadrees&show_icons=true&locale=en&layout=compact" alt="sadiaadrees" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadiaadrees&show_icons=true&locale=en" alt="sadiaadrees" /></p>
